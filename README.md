@@ -1,6 +1,6 @@
-# DiceRollerX
+# Dice Roller Simulation
 
-**DiceRollerX** is a simple dice simulation application written in Java. It simulates the rolling of two dice 1,000 times, calculates the sum of their face values, and generates a histogram to display the frequency of each possible sum (from 2 to 12).
+This is a simple dice simulation application written in Java. It simulates the rolling of two dice 1,000 times, calculates the sum of their face values, and generates a histogram to display the frequency of each possible sum (from 2 to 12).
 
 ## Features
 
@@ -48,12 +48,12 @@
 
 ## How to Run
 
-To run **DiceRollerX**, follow these steps:
+To run, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/danrmzz/dicerollerx.git
-   cd dicerollerx
+   git clone https://github.com/danrmzz/dice-roller-simulation.git
+   cd dice-roller-simulation
    ```
 
 2. **Compile and run the Java program**:
